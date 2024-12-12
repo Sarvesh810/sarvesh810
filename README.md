@@ -1,4 +1,11 @@
-## Hi there 👋
+![GitHub Cover](src/Assets/Images/GitHub%20cover%20image.png)
+## 🌟 About Me
+**I'm a Computer Science with Artificial Intelligence graduate from the University of Leeds, specializing in data engineering, machine learning, and software development. With a strong background in Python, deep learning, and innovative project development, I'm committed to solving complex problems through technology.**
+
+🚀 **Aspiring ML Engineer & Software Engineer** | 🎓 **BSc. Computer Science with AI @ University of Leeds**<br>
+🧠 **Strong Interests: Data Engineering, Artificial Intelligence, Machine Learning, and Web Development.**<br>
+🛠️ **Technical Skills: Python, C++, JavaScript, TensorFlow, React, SQL, Docker, GCP, and more.**<br>
+💡 **Core Values: Quality, Efficiency, and Lifelong Learning.**<br>
 
 <!--
 **Sarvesh810/sarvesh810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
